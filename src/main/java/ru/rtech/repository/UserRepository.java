@@ -6,5 +6,4 @@ import ru.rtech.entity.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Integer> {
-
 }
