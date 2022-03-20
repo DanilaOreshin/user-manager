@@ -1,0 +1,8 @@
+# USER-MANAGER
+
+ТЕST JPA PROJECT 
+
+GUIDE:
+1.
+2.
+3.
